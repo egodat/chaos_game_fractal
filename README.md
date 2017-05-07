@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/egodat/chaos_game_fractal.svg)]()
+
 # Chaos Game Fractal
 
 Jupyter notebooks written in Python that demonstrate properties of fractals.
@@ -7,3 +9,7 @@ The `fractal_from_random` notebook creates fractals using the "Chaos Game". The 
 ## Authors
 
 - [Eric Godat](https://www.linkedin.com/in/eric-godat-aa614148/) (Southern Methodist University)
+
+## Acknowledgments
+
+- All badges made by [shields.io](http://shields.io/)
